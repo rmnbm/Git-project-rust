@@ -4,6 +4,6 @@ The beginning of an implementation of Git written in Rust. This project supports
 
 ## Project Structure
 
-* `src/main.rs` - Tihs is the main source code containing all command logic (`init`, `cat-file`, `hash-object`, etc.).
+* `src/main.rs` - This is the main source code containing all command logic (`init`, `cat-file`, `hash-object`, etc.).
 * `tests/` - Scripts used to verify the correctness of the implementation.
 * `Cargo.toml` - Rust dependency definition.
